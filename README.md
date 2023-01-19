@@ -4,7 +4,7 @@ Download this text file and get to working! GLHF.
 
 # Stage 1
 Begin with the input.txt file and a python file. The message `Hello, TechCodes Intermediate People!! Welcome to our challenge!!` is in that file, but oh no! each letter has been seperated from it's neighbor!
-Each letter in the message only occurs once in the text between its neighbors. Find the sum of the indicies where these letters occur.
+There is a random amount of random letters that aren't the character before each character, your job is to find those letters. Find the sum of the indicies where these letters occur.
 
 # Stage 2
 Using the number from **Stage 1**, find its prime factors. Continue to find the sum of these factors until the sum itself is prime. Use this sum.
